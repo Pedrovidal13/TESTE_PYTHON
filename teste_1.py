@@ -1,4 +1,4 @@
 print("hello world")
-print("oi")
 a = "oi"
+print(a)
 print("Tchau")
